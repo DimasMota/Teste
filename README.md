@@ -1,2 +1,2 @@
 # Teste
-Curso de programação desenvolvimento de aplicativo
+Curso de programação desenvolvimento de aplicativo SENAI
