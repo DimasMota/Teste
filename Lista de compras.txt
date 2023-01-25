@@ -1,8 +1,10 @@
 Lista de compras
-Alimmeentos
+Alimentos
 
 1 0,600kg de cebola
 2 0,100kg de alho
 3 01 unidade de óleo 900ml
-4 01kg de linguiça
-5 01kg carne/peixinho
+4 1,000kg de linguiça
+5 1,000kg carne/peixinho
+6 0,500kg de tomate
+7 0,050kg de pimentão
